@@ -1,0 +1,5 @@
+{
+  "name": "CKP Campus Navigation System",
+  "description": "A web application to help users navigate the CKP campus. It features a mock login system, an interactive campus map, and integration with Google Maps for directions and street view tours.",
+  "requestFramePermissions": []
+}
